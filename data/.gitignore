@@ -1,0 +1,6 @@
+## Ignore files here
+*
+
+## But not the directory itself (really, don't ignore this file, because
+## you can't keep dirs only in git).
+!.gitignore
